@@ -1,0 +1,30 @@
+{
+  "name": "backg14",
+  "version": "1.0.0",
+  "description": "proyecto ciclo 4 g14",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.1.0",
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.7.5"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ProyectoG14/proyectog14Back.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ProyectoG14/proyectog14Back/issues"
+  },
+  "homepage": "https://github.com/ProyectoG14/proyectog14Back#readme"
+}
